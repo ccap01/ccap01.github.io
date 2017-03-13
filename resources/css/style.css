@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+}
+
+.header {
+  width: 100%;
+  background-image: url("broadway/resources/images/the-flatiron-building.png");
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  padding: 10px;
+}
+
+li a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  padding: 10px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+div {
+  display:inline;
+}
+
+#copyright {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  width: 100%;
+  text-align: left;
+  padding: 3px 3px 3px 3px;
+  display:inline-block;
+}
+
+span a {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
